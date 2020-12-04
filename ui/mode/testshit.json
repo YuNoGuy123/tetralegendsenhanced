@@ -15,7 +15,7 @@
       "min": 1,
       "discrete": 1,
       "setting": "startingLevel",
-      "gameName": "marathon",
+      "gameName": "testshit",
       "settingType": "game"
     },
     {
@@ -33,6 +33,11 @@
           "string": "linesUnit",
           "replace": ["200"],
           "value": 200
+        },
+                {
+          "string": "linesUnit",
+          "replace": ["300"],
+          "value": 300
         },
         {
           "string": "endlessOption",
@@ -62,10 +67,15 @@
           "label": "20",
           "fixedText": true,
           "value": 20
+        },
+         {
+          "label": "30",
+          "fixedText": true,
+          "value": 30
         }
       ],
       "setting": "levelCap",
-      "gameName": "marathon",
+      "gameName": "testshit",
       "settingType": "game"
     }
   ]
