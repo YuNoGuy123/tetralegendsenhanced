@@ -1,4 +1,12 @@
 # Tetra Legends Enhanced Changelog
+Tetra Legends Fork
+
+
+ALPHA V8.1.1
+Try to learn how Tetra Legends works by adding random crap
+
+-------------------------------------------
+## Tetra Legends Classic Changelog
 Tetris clone in HTML5
 
 ALPHA V8.1.0 - 2020-09-05
