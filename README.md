@@ -13,4 +13,4 @@ The entirety of Tetra Legends Enhanced was made possible __ONLY__ because of the
 
 Send any concerns that you have about this fork of the game to either me here on github, or via discord at the Tetra Legends official discord (https://discord.gg/mjARsPuD8v) or you can also send me a DM on discord at YuNoGuy123#9805.
 
-##### Have fun!
+### Have fun!
