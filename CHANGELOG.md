@@ -1,4 +1,4 @@
-# tetralegendsenhanced changelog
+# Tetra Legends Enhanced Changelog
 Tetris clone in HTML5
 
 ALPHA V8.1.0 - 2020-09-05
