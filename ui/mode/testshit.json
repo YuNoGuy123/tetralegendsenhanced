@@ -11,7 +11,7 @@
       "default": true,
       "type": "slider",
       "action": "slider",
-      "max": 20,
+      "max": 60,
       "min": 1,
       "discrete": 1,
       "setting": "startingLevel",
