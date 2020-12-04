@@ -10,3 +10,7 @@ I am starting this project while knowing very little about HTML5 as a whole, but
 My main goal starting out is to figure out how everything in Tetra Legends works first, only __then__ will I start to add Arcade modes and more QOL features.
 
 The entirety of Tetra Legends Enhanced was made possible __ONLY__ because of the work that Dr. Ocelot has done to make the original game in the first place, and for that, I thank him for creating such a great game to actually play.
+
+Send any concerns that you have about this fork of the game to either me here on github, or via discord at the Tetra Legends official discord (https://discord.gg/mjARsPuD8v) or you can also send me a DM on discord at YuNoGuy123#9805.
+
+##### Have fun!
