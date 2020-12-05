@@ -43,8 +43,17 @@
     "message": "Survival",
     "description": "A guideline mode where lines are constantly sent to the player's game and they have to survive the ever rising garbage"
   },
+ 
   "survivalDescription": {
     "message": "Caution! Broken lines have started to rise from the bottom. If you can't keep up, you're definitely going to fail!",
+    "description": "Feel free to take any liberties as long you can accurately describe the mode in a way that's localized to the language."
+  },
+    "testshitLabel": {
+    "message": "Hey Shitass.",
+    "description": "Wanna see me... speedbridge?"
+  },
+    "testshitDescription": {
+    "message": "Wanna see me... speedbridge?",
     "description": "Feel free to take any liberties as long you can accurately describe the mode in a way that's localized to the language."
   }
 }
