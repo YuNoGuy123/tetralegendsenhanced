@@ -41,6 +41,12 @@
       "action": "submenu",
       "submenu": "mode/combo"
     },
+     {
+      "string": "testshitLabel",
+      "stringDesc": "testshitLabel",
+      "action": "submenu",
+      "submenu": "mode/testshit"
+    },
     {
       "label": "NIGHT OF NIGHTS",
       "description": "",
